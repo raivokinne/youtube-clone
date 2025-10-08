@@ -178,8 +178,6 @@ youtube-clone/
     ├── src/
     │   ├── components/       # React Components
     │   ├── pages/            # Page Components
-    │   ├── services/         # API Services
-    │   ├── store/            # Redux Store
     │   ├── utils/            # Utility Functions
     │   ├── App.js
     │   └── index.js
