@@ -139,13 +139,7 @@ yarn install
 cp .env.example .env
 ```
 
-4. **Configure your `.env` file**
-
-```env
-REACT_APP_API_URL=http://localhost:8000/api
-```
-
-5. **Start the React development server**
+4. **Start the React development server**
 
 ```bash
 npm run dev
